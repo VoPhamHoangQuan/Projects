@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{595476BE-9040-4319-AA2C-378801E060FA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Quản_lý_siêu_thị</RootNamespace>
+    <AssemblyName>Quản lý siêu thị</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Kho\GlobalIDNhapXuat.cs" />
+    <Compile Include="Kho\Xuất kho\ConfirmExportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kho\Xuất kho\ConfirmExportForm.designer.cs">
+      <DependentUpon>ConfirmExportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kho\Nhập kho\ConfirmOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kho\Nhập kho\ConfirmOrderForm.designer.cs">
+      <DependentUpon>ConfirmOrderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kho\Xuất kho\ExportStorageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kho\Xuất kho\ExportStorageForm.designer.cs">
+      <DependentUpon>ExportStorageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kho\Nhập kho\OrderStorageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kho\Nhập kho\OrderStorageForm.designer.cs">
+      <DependentUpon>OrderStorageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kho\Storage.cs" />
+    <Compile Include="Kho\StorageManagerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kho\StorageManagerForm.designer.cs">
+      <DependentUpon>StorageManagerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kho\UpdateStorageManagerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kho\UpdateStorageManagerForm.designer.cs">
+      <DependentUpon>UpdateStorageManagerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kho\XuatNhapReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kho\XuatNhapReportForm.Designer.cs">
+      <DependentUpon>XuatNhapReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Xuất bill\Customer.cs" />
+    <Compile Include="Xuất bill\IdKHGlobal.cs" />
+    <Compile Include="Xuất bill\ListProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Xuất bill\ListProduct.Designer.cs">
+      <DependentUpon>ListProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\CheckPartLoginGlobal.cs" />
+    <Compile Include="Xuất bill\ManageCustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Xuất bill\ManageCustomerForm.Designer.cs">
+      <DependentUpon>ManageCustomerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhân Viên\IdNVGlobal.cs" />
+    <Compile Include="Xuất bill\IdSpGlobal.cs" />
+    <Compile Include="Xuất bill\BuyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Xuất bill\BuyForm.Designer.cs">
+      <DependentUpon>BuyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Xuất bill\Bill.cs" />
+    <Compile Include="MainMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenuForm.Designer.cs">
+      <DependentUpon>MainMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\NameUserGlobal.cs" />
+    <Compile Include="Nhân Viên\SearchEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhân Viên\SearchEmployee.Designer.cs">
+      <DependentUpon>SearchEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Xuất bill\PayForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Xuất bill\PayForm.Designer.cs">
+      <DependentUpon>PayForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductChartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductChartForm.Designer.cs">
+      <DependentUpon>ProductChartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhân Viên\Employees.cs" />
+    <Compile Include="Login\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhân Viên\ManageEmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhân Viên\ManageEmployeeForm.Designer.cs">
+      <DependentUpon>ManageEmployeeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sản Phẩm\PrintProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sản Phẩm\PrintProductForm.Designer.cs">
+      <DependentUpon>PrintProductForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sản Phẩm\ManageProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sản Phẩm\ManageProductForm.Designer.cs">
+      <DependentUpon>ManageProductForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connection\MY_DB.cs" />
+    <Compile Include="Sản Phẩm\Products.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Login\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\User.cs" />
+    <Compile Include="Nhân Viên\TimeInAndTimeOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhân Viên\TimeInAndTimeOut.Designer.cs">
+      <DependentUpon>TimeInAndTimeOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Xuất bill\TotalDaySale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Xuất bill\TotalDaySale.Designer.cs">
+      <DependentUpon>TotalDaySale.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Kho\XuatNhapReportForm.resx">
+      <DependentUpon>XuatNhapReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kho\Xuất kho\ConfirmExportForm.resx">
+      <DependentUpon>ConfirmExportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kho\Nhập kho\ConfirmOrderForm.resx">
+      <DependentUpon>ConfirmOrderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kho\Xuất kho\ExportStorageForm.resx">
+      <DependentUpon>ExportStorageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kho\Nhập kho\OrderStorageForm.resx">
+      <DependentUpon>OrderStorageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kho\StorageManagerForm.resx">
+      <DependentUpon>StorageManagerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kho\UpdateStorageManagerForm.resx">
+      <DependentUpon>UpdateStorageManagerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Xuất bill\BuyForm.resx">
+      <DependentUpon>BuyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Xuất bill\ManageCustomerForm.resx">
+      <DependentUpon>ManageCustomerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Xuất bill\ListProduct.resx">
+      <DependentUpon>ListProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenuForm.resx">
+      <DependentUpon>MainMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhân Viên\SearchEmployee.resx">
+      <DependentUpon>SearchEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhân Viên\TimeInAndTimeOut.resx">
+      <DependentUpon>TimeInAndTimeOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Xuất bill\PayForm.resx">
+      <DependentUpon>PayForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductChartForm.resx">
+      <DependentUpon>ProductChartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhân Viên\ManageEmployeeForm.resx">
+      <DependentUpon>ManageEmployeeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sản Phẩm\PrintProductForm.resx">
+      <DependentUpon>PrintProductForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sản Phẩm\ManageProductForm.resx">
+      <DependentUpon>ManageProductForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Login\RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Xuất bill\TotalDaySale.resx">
+      <DependentUpon>TotalDaySale.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4431de448b0810efdceebb2824c9d04f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\240_F_329214007_1ce9HPpDnr8XZUyElLitNz5QQlC0XrfO.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

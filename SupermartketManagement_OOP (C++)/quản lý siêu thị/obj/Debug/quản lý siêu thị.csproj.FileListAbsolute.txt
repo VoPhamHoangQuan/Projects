@@ -1,0 +1,34 @@
+D:\study\LAP TRINH\lap trinh huong doi tuong (nam 2)\c#\đồ án cuối kỳ\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\bin\Debug\quản lý siêu thị.exe.config
+D:\study\LAP TRINH\lap trinh huong doi tuong (nam 2)\c#\đồ án cuối kỳ\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\bin\Debug\quản lý siêu thị.exe
+D:\study\LAP TRINH\lap trinh huong doi tuong (nam 2)\c#\đồ án cuối kỳ\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\bin\Debug\quản lý siêu thị.pdb
+D:\study\LAP TRINH\lap trinh huong doi tuong (nam 2)\c#\đồ án cuối kỳ\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\obj\Debug\quản lý siêu thị.csprojAssemblyReference.cache
+D:\study\LAP TRINH\lap trinh huong doi tuong (nam 2)\c#\đồ án cuối kỳ\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\obj\Debug\quản lý siêu thị.csproj.CoreCompileInputs.cache
+D:\study\LAP TRINH\lap trinh huong doi tuong (nam 2)\c#\đồ án cuối kỳ\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\obj\Debug\quản lý siêu thị.exe
+D:\study\LAP TRINH\lap trinh huong doi tuong (nam 2)\c#\đồ án cuối kỳ\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\obj\Debug\quản lý siêu thị.pdb
+D:\nam II (2019-2020)\HKI\LTHDT\đồ án cuối kì\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\bin\Debug\quản lý siêu thị.exe.config
+D:\nam II (2019-2020)\HKI\LTHDT\đồ án cuối kì\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\bin\Debug\quản lý siêu thị.exe
+D:\nam II (2019-2020)\HKI\LTHDT\đồ án cuối kì\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\bin\Debug\quản lý siêu thị.pdb
+D:\nam II (2019-2020)\HKI\LTHDT\đồ án cuối kì\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\obj\Debug\quản lý siêu thị.csprojAssemblyReference.cache
+D:\nam II (2019-2020)\HKI\LTHDT\đồ án cuối kì\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\obj\Debug\quản lý siêu thị.exe
+D:\nam II (2019-2020)\HKI\LTHDT\đồ án cuối kì\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\obj\Debug\quản lý siêu thị.pdb
+C:\Users\DELL\Desktop\code quanlysieuthi\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\bin\Debug\quản lý siêu thị.exe.config
+C:\Users\DELL\Desktop\code quanlysieuthi\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\bin\Debug\quản lý siêu thị.exe
+C:\Users\DELL\Desktop\code quanlysieuthi\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\bin\Debug\quản lý siêu thị.pdb
+C:\Users\DELL\Desktop\code quanlysieuthi\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\obj\Debug\quản lý siêu thị.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\code quanlysieuthi\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\obj\Debug\quản lý siêu thị.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\code quanlysieuthi\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\obj\Debug\quản lý siêu thị.exe
+C:\Users\DELL\Desktop\code quanlysieuthi\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\obj\Debug\quản lý siêu thị.pdb
+C:\Users\DELL\Desktop\code quanlysieuthi\code quanlysieuthi\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\obj\Debug\quản lý siêu thị.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\code quanlysieuthi\code quanlysieuthi\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\obj\Debug\quản lý siêu thị.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\code quanlysieuthi\code quanlysieuthi\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\obj\Debug\quản lý siêu thị.exe
+C:\Users\DELL\Desktop\code quanlysieuthi\code quanlysieuthi\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\obj\Debug\quản lý siêu thị.pdb
+C:\Users\DELL\Desktop\code quanlysieuthi\code quanlysieuthi\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\bin\Debug\quản lý siêu thị.exe.config
+C:\Users\DELL\Desktop\code quanlysieuthi\code quanlysieuthi\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\bin\Debug\quản lý siêu thị.exe
+C:\Users\DELL\Desktop\code quanlysieuthi\code quanlysieuthi\code quanlysieuthi\quản lý siêu thị\quản lý siêu thị\bin\Debug\quản lý siêu thị.pdb
+D:\study\LAP TRINH\lap trinh huong doi tuong (nam 2)\c#\đồ án cuối kỳ\code quanlysieuthi\quản lý siêu thị (C++)\quản lý siêu thị\bin\Debug\quản lý siêu thị.exe.config
+D:\study\LAP TRINH\lap trinh huong doi tuong (nam 2)\c#\đồ án cuối kỳ\code quanlysieuthi\quản lý siêu thị (C++)\quản lý siêu thị\bin\Debug\quản lý siêu thị.exe
+D:\study\LAP TRINH\lap trinh huong doi tuong (nam 2)\c#\đồ án cuối kỳ\code quanlysieuthi\quản lý siêu thị (C++)\quản lý siêu thị\bin\Debug\quản lý siêu thị.pdb
+D:\study\LAP TRINH\lap trinh huong doi tuong (nam 2)\c#\đồ án cuối kỳ\code quanlysieuthi\quản lý siêu thị (C++)\quản lý siêu thị\obj\Debug\quản lý siêu thị.csprojAssemblyReference.cache
+D:\study\LAP TRINH\lap trinh huong doi tuong (nam 2)\c#\đồ án cuối kỳ\code quanlysieuthi\quản lý siêu thị (C++)\quản lý siêu thị\obj\Debug\quản lý siêu thị.csproj.CoreCompileInputs.cache
+D:\study\LAP TRINH\lap trinh huong doi tuong (nam 2)\c#\đồ án cuối kỳ\code quanlysieuthi\quản lý siêu thị (C++)\quản lý siêu thị\obj\Debug\quản lý siêu thị.exe
+D:\study\LAP TRINH\lap trinh huong doi tuong (nam 2)\c#\đồ án cuối kỳ\code quanlysieuthi\quản lý siêu thị (C++)\quản lý siêu thị\obj\Debug\quản lý siêu thị.pdb

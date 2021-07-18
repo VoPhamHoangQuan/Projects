@@ -1,0 +1,192 @@
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.exe.config
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.exe
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.pdb
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.LoginForm.resources
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.Properties.Resources.resources
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.RegisterForm.resources
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.GenerateResource.cache
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.CoreCompileInputs.cache
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.exe
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.pdb
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageProductForm.resources
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.PrintProductForm.resources
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageEmployeeForm.resources
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageProductPrice.resources
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.MainMenuForm.resources
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.exe.config
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.exe
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.pdb
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.LoginForm.resources
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.MainForm.resources
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.MainMenuForm.resources
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageProductPrice.resources
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageEmployeeForm.resources
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.PrintEmployeeForm.resources
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.PrintProductForm.resources
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageProductForm.resources
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.Properties.Resources.resources
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.RegisterForm.resources
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.exe
+C:\Users\DELL\Desktop\QLSV\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.pdb
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csprojAssemblyReference.cache
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.BuyForm.resources
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.SaleProduceForm.resources
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.PayForm.resources
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.SearchEmployee.resources
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.TimeInAndTimeOut.resources
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.TotalDaySale.resources
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageCustomerForm.resources
+D:\study\LAP TRINH\Lập trình trên windows_nam2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ProductChartForm.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.exe.config
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.exe
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.pdb
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csprojAssemblyReference.cache
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.BuyForm.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageCustomerForm.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.LoginForm.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.MainMenuForm.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.SaleProduceForm.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.PayForm.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.SearchEmployee.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.TimeInAndTimeOut.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ProductChartForm.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageProductPrice.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageEmployeeForm.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.PrintProductForm.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageProductForm.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.Properties.Resources.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.RegisterForm.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.TotalDaySale.resources
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.GenerateResource.cache
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.CoreCompileInputs.cache
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.exe
+D:\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.pdb
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.exe.config
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.exe
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.pdb
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.BuyForm.resources
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageCustomerForm.resources
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.LoginForm.resources
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.MainMenuForm.resources
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.SaleProduceForm.resources
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.PayForm.resources
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.SearchEmployee.resources
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.TimeInAndTimeOut.resources
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ProductChartForm.resources
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageProductPrice.resources
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageEmployeeForm.resources
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.PrintProductForm.resources
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageProductForm.resources
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.Properties.Resources.resources
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.RegisterForm.resources
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.TotalDaySale.resources
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.GenerateResource.cache
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.CoreCompileInputs.cache
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.exe
+D:\My_Documants\study\LAP_TRINH\Lap_trinh_tren_windows_2\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.pdb
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.exe.config
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.exe
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.pdb
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csprojAssemblyReference.cache
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.BuyForm.resources
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageCustomerForm.resources
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.LoginForm.resources
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.MainMenuForm.resources
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.SaleProduceForm.resources
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.PayForm.resources
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.SearchEmployee.resources
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.TimeInAndTimeOut.resources
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ProductChartForm.resources
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageEmployeeForm.resources
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.PrintProductForm.resources
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageProductForm.resources
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.Properties.Resources.resources
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.RegisterForm.resources
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.TotalDaySale.resources
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.GenerateResource.cache
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.CoreCompileInputs.cache
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.exe
+D:\My_Documants\study\LAP_TRINH\Project_CNTT\Đồ án quản lý siêu thị\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.pdb
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csprojAssemblyReference.cache
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageCustomerForm.resources
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.LoginForm.resources
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.MainMenuForm.resources
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.SearchEmployee.resources
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.TimeInAndTimeOut.resources
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ProductChartForm.resources
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageEmployeeForm.resources
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.PrintProductForm.resources
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageProductForm.resources
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.Properties.Resources.resources
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.RegisterForm.resources
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.TotalDaySale.resources
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.GenerateResource.cache
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.CoreCompileInputs.cache
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.exe
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.pdb
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.exe.config
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.exe
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.pdb
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Guna.UI.dll
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ListProduct.resources
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.CopyComplete
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.BuyProduct.resources
+D:\nam_III (2020-2021)\HKI\DoAN1\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.PayForm.resources
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.exe.config
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.exe
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.pdb
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csprojAssemblyReference.cache
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.BuyProduct.resources
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageCustomerForm.resources
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ListProduct.resources
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.LoginForm.resources
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.MainMenuForm.resources
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.SearchEmployee.resources
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.TimeInAndTimeOut.resources
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.PayForm.resources
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ProductChartForm.resources
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageEmployeeForm.resources
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.PrintProductForm.resources
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageProductForm.resources
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.Properties.Resources.resources
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.RegisterForm.resources
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.TotalDaySale.resources
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.GenerateResource.cache
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.CoreCompileInputs.cache
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.CopyComplete
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.exe
+D:\My_Download\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.pdb
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.exe.config
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.exe
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\bin\Debug\Quản lý siêu thị.pdb
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ConfirmExportForm.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ConfirmOrderForm.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ExportStorageForm.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.OrderStorageForm.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.StorageManagerForm.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.UpdateStorageManagerForm.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.BuyProduct.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageCustomerForm.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ListProduct.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.LoginForm.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.MainMenuForm.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.SearchEmployee.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.TimeInAndTimeOut.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.PayForm.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ProductChartForm.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageEmployeeForm.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.PrintProductForm.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.ManageProductForm.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.RegisterForm.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.TotalDaySale.resources
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.csproj.CopyComplete
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.exe
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản lý siêu thị.pdb
+C:\Users\PC\OneDrive\Desktop\Quản lý siêu thị\Quản lý siêu thị\obj\Debug\Quản_lý_siêu_thị.XuatNhapReportForm.resources
